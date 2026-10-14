@@ -1,0 +1,10 @@
+
+{
+  "name": "recruitmenthub",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "npm install --prefix Backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm start --prefix Backend"
+  }
+}
