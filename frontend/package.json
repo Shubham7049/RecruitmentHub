@@ -20,6 +20,7 @@
     "react-hot-toast": "^2.6.0",
     "react-redux": "^9.3.0",
     "react-router-dom": "^6.30.6",
+    "recruitmenthub": "file:..",
     "tailwind-merge": "^3.7.0",
     "zod": "^3.25.76"
   },
